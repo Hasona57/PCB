@@ -21,9 +21,9 @@ This repository contains custom PCB designs created using KiCad. It includes sch
 
 ## PCB Preview
 
-![Top 3D View](Images/Screenshot from 2025-07-29 05-48-24.png)
-![Bottom 3D View](Images/Screenshot from 2025-07-29 05-48-46.png)
-![PCB](Images/Screenshot from 2025-07-29 05-49-02.png)
+![Top 3D View](Images/front.png)
+![Bottom 3D View](Images/Back.png)
+![PCB](Images/PCB.png)
 
 ## License
 
