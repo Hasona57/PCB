@@ -1,15 +1,6 @@
 # PCB Projects
 
-This repository contains custom PCB designs created using KiCad. It includes schematic files, PCB layouts, manufacturing-ready files, and supporting documentation.
-
-## Repository Structure
-
-- `Schematics/` - Circuit schematics
-- `PCB Layouts/` - Board layout files
-- `Gerber Files/` - Fabrication files for PCB manufacturers
-- `3D Models/` - Optional board renderings
-- `Images/` - PCB renders and real images
-- `Docs/` - Datasheets and reference documents
+This repository contains custom PCB designs created using KiCad. It includes schematic files, PCB layouts,and manufacturing-ready files.
 
 ## How to Use
 
